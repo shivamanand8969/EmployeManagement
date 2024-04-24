@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: rgb(0, 0, 20);
+    padding: 10px;
+    padding-inline: 40px;
+
+    height: 30px;
+    color: white;
+}
+.mainbox{
+    display: flex;
+}
+#formPopup{
+    background-color: rgb(9, 163, 9);
+    color: white;
+    font-size: large;
+    font-family: sans-serif;
+    padding-inline: 20px;
+    padding-block: 10px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+.emp_box{
+    height: 90vh;
+    overflow-y: scroll;
+    
+   border: 2px solid black;
+   width: 30%;
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   background-color: rgb(0, 0, 17);
+}
+.emp__box{
+   display: flex;
+   justify-content: space-between;
+   background-color: blue;
+   padding: 10px;
+   padding-inline: 20px;
+   border-radius: 10px;
+   width: 80%;
+   margin-left: 20px;
+   color: white;
+   font-size: large;
+   font-family: sans-serif;
+   font-weight: 400;
+   align-items: center;
+   cursor: pointer;
+}
+.cross{
+    color: red;
+    font-size: xx-large;
+}
+.user_Details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+   height: 90vh;
+   width: 70%;
+   border: 2px solid black;
+   background-color: black;
+   color: white;
+   
+}
+
+.profileImage img{
+    width: 130px;
+    height: 130px;
+    border-radius: 100%;
+}
+.popup{
+    width: 100vw;
+    height: 98vh;
+    position: absolute;
+    background: black;
+    display: flex;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+form{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+    padding-bottom: 30px;
+}
+form input{
+    height: 25px;
+    width: 250px;
+    outline: none;
+    background-color: black;
+    border: none;
+    border-bottom: 2px solid red;
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.hidepopup{
+   position: absolute;
+    top: 0;
+    right: 20px;
+    color: red;
+    font: 700;
+    font-size: xx-large;
+    cursor: pointer;
+
+}
+#btnSubmit{
+    height: 40px;
+    background-color: red;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: large;
+    width: 200px;
+
+}
+.empLabel{
+    color: red;
+    font: 700;
+    font-size: x-large;
+    font-family: sans-serif;
+    padding: 0;
+}
+label{
+    color: white;
+}
+.empManagementText{
+    color: white;
+    font-size: x-large;
+    font-family: sans-serif;
+    font-weight: 700;
+}

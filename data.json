@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Shivam Anand",
+        "work": "Software Developer",
+        "MobileNo": 8969271781,
+        "id": 12343234323,
+        "address": "Bihar"
+    },
+    {
+        "name": "Abhimanyu kumar",
+        "work": "Businessman",
+        "MobileNo": 8969271781,
+        "id": 1243233234323,
+        "address": "Bihar"
+    },
+    {
+        "name": "Raman Kumar",
+        "work": "Teacher",
+        "MobileNo": 8969271781,
+        "id": 3423212123,
+        "address": "Bhopal"
+    },
+    {
+        "name": "Mohit Kumar",
+        "work": "MoryaLab",
+        "MobileNo": 8969271781,
+        "id": 45675543,
+        "address": "Bihar"
+    },
+    {
+        "name": "virat khokli",
+        "work": "Cricketer",
+        "MobileNo": 8969271781,
+        "id": 675432112223,
+        "address": "Bihar"
+    },
+    {
+        "name": "Raman Kumar",
+        "work": "Teacher",
+        "MobileNo": 8969271781,
+        "id": 3423212123,
+        "address": "Bhopal"
+    },
+    {
+        "name": "Mohit Kumar",
+        "work": "MoryaLab",
+        "MobileNo": 8969271781,
+        "id": 45675543,
+        "address": "Bihar"
+    },
+    {
+        "name": "virat khokli",
+        "work": "Cricketer",
+        "MobileNo": 8969271781,
+        "id": 675432112223,
+        "address": "Bihar"
+    }
+]
